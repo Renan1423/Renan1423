@@ -20,7 +20,7 @@ I'm Renan, a 22 years old game programmer and software developer from Brazil!
 - 🏆 1st Place - [BGS Game Jam 2022](https://nikisas.itch.io/type-defender)
 - 🏆 2nd Place - [9th CSJam](https://youtu.be/VxPTPtx1qp4?si=VRTifK4sG_sRR0dg&t=307)
 - 🗣 Lecture - [Campus Party 2023: Mercado de Games: Do sonho à realidade](https://www.youtube.com/watch?v=gDA_8l9h4Gk&ab_channel=KonfideEducation)
-- 🗣 Lecture - [BGS Talks 2025 - “Challenges for digital game education: integrating the market and university (Senac)”]
+- 🗣 Lecture - BGS Talks 2025 - “Challenges for digital game education: integrating the market and university (Senac)”
 
 ## Contact
 - [Renan Nunes](https://www.linkedin.com/in/renan-nunes-37119222a/) on Linkedln
