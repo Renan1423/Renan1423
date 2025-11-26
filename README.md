@@ -24,5 +24,5 @@ I'm Renan, a 22 years old game programmer and software developer from Brazil!
 
 ## Contact
 - [Renan Nunes](https://www.linkedin.com/in/renan-nunes-37119222a/) on Linkedln
-- [renannunesgamedev@gmail.com] - Professional email
+- [renannunesgamedev@gmail.com](renannunesgamedev@gmail.com) - Professional email
 - [@renan_nunesd](https://www.instagram.com/renan_nunesd/) on Instagram
